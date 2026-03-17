@@ -122,4 +122,5 @@
 ## 📫 Connect With Me
 
 * 💼 Open to freelance & remote opportunities
-* 🌐 https://www.linkedin.com/in/idrees-nazir-93237b3b/ / https://github.com/idreescode
+* 🌐 https://www.linkedin.com/in/idrees-nazir-93237b3b/
+*  https://github.com/idreescode
